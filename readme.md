@@ -1,5 +1,6 @@
 # AWS Assignment
 ## 1. Create a VPC with CIDR 10.15.{8*team#}.0/22; no custom subnets.
+[VPC answer with Screenshots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/main/AWS-VPC.pdf)
      - Use us-east-1 (odd) or us-east-2 (even) regions.
 ## 2. Start a EC2
 
