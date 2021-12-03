@@ -2,6 +2,7 @@
 ## 1. Create a VPC with CIDR 10.15.{8*team#}.0/22; no custom subnets.
      - Use us-east-1 (odd) or us-east-2 (even) regions.
 ## 2. Start a EC2
+
      - Amazon Linux OS
      - Use t2.micro instance (Free Tire)
      - Attach 10GB General EBS (detachable)
