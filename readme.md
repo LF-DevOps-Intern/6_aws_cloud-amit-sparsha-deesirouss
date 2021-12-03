@@ -4,6 +4,7 @@
 - Use us-east-1 (odd) or us-east-2 (even) regions.
 ## 2. Start a EC2
 [EC2 pdf](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/main/EC2%20instance.pdf)
+
 [EC2 SCREENSHOTS](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/main/Snapshots%20EC2)
 
 
