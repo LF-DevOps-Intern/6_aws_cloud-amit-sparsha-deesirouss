@@ -17,18 +17,26 @@
 
 ## Internet Gateway
 - #### Create Internet Gateway and attach its route in public route table.
+### [Internet Gateway Answer](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/cloud-day-2-vpc-components/2-VPC-Components/Internet%20Gateway/Internet%20gateway.pdf)
+### [Screenshots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-2-vpc-components/2-VPC-Components/S3%20Endpoints/Screenshots)
 
 ## NAT
 - #### Create NAT (and EIP for it) and attach its route in private route table.
+### [NAT Answer](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/cloud-day-2-vpc-components/2-VPC-Components/NAT/NAT.pdf)
+### [Screenshots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-2-vpc-components/2-VPC-Components/NAT/Screenshots)
 
 ## S3 Endpoint
 - #### Create S3 VPC Endpoint and add its route to both public and private Route tables.
+### [S3 Endpoint](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/cloud-day-2-vpc-components/2-VPC-Components/S3%20Endpoints/S3%20EndPoint.pdf)
+### [Screenshots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-2-vpc-components/2-VPC-Components/S3%20Endpoints/Screenshots)
 
 ### Create EC2 inside Public Subnet
 - Allow SSH ingress traffic for your own IPs only.
 - Spin up simple http server @ 9099 port and verify it is accessible from public.
 - Install and Setup OpenVPN Server, open ports required to use it for these CIDR ranges 27,43,45,72,103,110,112,124,139,150,163,202.0.0.0/8 and your own IPs.
 - (Optional) Create a OpenVPN Client with Split tunnel to use that Server Help1, Help2, Help3
+### [EC2 inside Public Subnet](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/cloud-day-2-vpc-components/2-VPC-Components/Ec2%20inside%20public%20subnet/EC2%20Inside%20Public%20Subnet.pdf)
+### [Screenshots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-2-vpc-components/2-VPC-Components/Ec2%20inside%20public%20subnet/Screenshots)
 
 ### Create another EC2 inside Private Subnet
 - Only allow inbound traffic within VPC
