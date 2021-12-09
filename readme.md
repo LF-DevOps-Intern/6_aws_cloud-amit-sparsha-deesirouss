@@ -4,3 +4,4 @@ Assignment's Folder SoftLink
 - [2-VPC Components](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-2-vpc-components/2-VPC-Components)
 - [3-AWS-Services](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-3-AWS-Services/3-AWS-Services)
 - [4-Load-Balancer & DNS](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-4-Load-Balancer/4-Load-Balancer-and-DNS)
+- [5-Logs-and-Alerts]()
