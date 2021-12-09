@@ -10,16 +10,17 @@
 - Timeout 5 Seconds
 - Interval 45 Seconds
 - Access the server via ALB publicly using ALB’s DNS name.
+#### [Load Balancer Answer in PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-4-Load-Balancer/4-Load-Balancer-and-DNS/Load%20Balancer)
 
 
 ### 2. Create Route53 Hosted Zone
 - Either use your own Domain if you have as <team-name>.<your-domain> OR use mine ie intern.amitj.com.np to create new HZ for your use in pattern <team-name>.intern.amitj.com.np.
 - Show nslookup result for your domain.
 - Add R53 entry to map above created ALB at URL alb.<team-name>.<your-domain>
-
+#### [Route 53 Answer in PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-4-Load-Balancer/4-Load-Balancer-and-DNS/Route%2053)
 
 ### 3. Create ACM for above created R53 HZ with both top subdomain and its wild card ie <team-name>.<your-domain> and *.<team-name>.<your-domain>
-
+#### [ACM Answer in PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-4-Load-Balancer/4-Load-Balancer-and-DNS/ACM)
 
 ### 4. Update ALB
 - Accept request only when Host = alb.<team-name>.<your-domain>, with default action response Code: 503, Message: “Unknown Request” on both HTTP and HTTPS requests.
