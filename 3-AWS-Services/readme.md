@@ -13,13 +13,10 @@
 - (Optional) Validate you can connect to another team’s (A->B and B->C) RDS (Peer must be completed)
 ## [RDS Answer PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-3-AWS-Services/3-AWS-Services/RDS)
 
-<<<<<<< HEAD
-### 3. Install AWS CLIv2 and config lft-training profile.
 
-=======
-3. ### Install AWS CLIv2 and config lft-training profile.
+### 3. Install AWS CLIv2 and config lft-training profile.
 ## [AWS CLI Answer PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-3-AWS-Services/3-AWS-Services/Aws%20cli)
->>>>>>> 718ad3891a51a0c5707409145b20a3139030b02d
+
 
 ### 4. Create ECR and upload your Docker image created during Docker assignment Q3.
 - Each member must upload an image (in team’s ECR repo) with their name as tag.
