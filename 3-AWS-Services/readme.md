@@ -4,16 +4,17 @@
 - Allow both direction VPC Traffic.
 - Add route to peered VPC in private Route Table.
 > https://docs.aws.amazon.com/vpc/latest/peering/vpc-peering-basics.html
+## [Peering Connection with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-3-AWS-Services/3-AWS-Services/Peering%20Connection)
 
 
 2. ### Create RDS cluster and instance of PostgreSQL.
 - Deploy in private subnet.
 - In your private EC2. Connect to the RDS Postgresql.
 - (Optional) Validate you can connect to another team’s (A->B and B->C) RDS (Peer must be completed)
-
+## [RDS Answer PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-3-AWS-Services/3-AWS-Services/RDS)
 
 3. ### Install AWS CLIv2 and config lft-training profile.
-
+## [AWS CLI Answer PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/tree/cloud-day-3-AWS-Services/3-AWS-Services/Aws%20cli)
 
 4. Create ECR and upload your Docker image created during Docker assignment Q3.
 - Each member must upload an image (in team’s ECR repo) with their name as tag.
