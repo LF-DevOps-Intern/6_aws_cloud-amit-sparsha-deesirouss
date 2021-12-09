@@ -25,9 +25,9 @@
 - Accept request only when Host = alb.<team-name>.<your-domain>, with default action response Code: 503, Message: “Unknown Request” on both HTTP and HTTPS requests.
 - Enable HTTPS support.
 - Redirect HTTP to HTTPS.
-
+#### [Task's Answer in PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/cloud-day-4-Load-Balancer/4-Load-Balancer-and-DNS/Update%20ALB-HTTP-HTTPS%20answer%20with%20Screenshots.pdf)
 
 ### 5. (Optional) Create Private Route53 with domain <team-name>.vpc-local and attach it to your VPC with DNS resolve enable.
 - Add A Record to map Private EC2’s Private IP to ec2.<team-name>.vpc-local.
 - Run telnet ec2.<team-name>.vpc-local 22, from public EC2 and verify it gets connected.
-
+#### [Task's Answer in PDF with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/cloud-day-4-Load-Balancer/4-Load-Balancer-and-DNS/vpc.local-telnet-PDF%20answer%20with%20Screenshots.pdf)
