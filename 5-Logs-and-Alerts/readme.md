@@ -6,6 +6,8 @@
 ### 2. Create SNS topic.
 - Add subscription as Protocol Email, and endpoint your Email Address.
 
+## [SES and SNS (Assignment 1 and 2) with ScreenShots](https://github.com/LF-DevOps-Intern/6_aws_cloud-amit-sparsha-deesirouss/blob/cloud-day-5-Logs-and-Alerts/5-Logs-and-Alerts/AWS-LOGS(1%20and%202).pdf)
+
 
 ### 3. Create Event Bridge rule to monitor EC2 state change events. Set above created SNS topic as target.
 
