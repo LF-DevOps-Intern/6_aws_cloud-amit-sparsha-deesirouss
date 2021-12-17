@@ -11,6 +11,6 @@
 - Create a bash script to deploy your react app to S3
 #### [Anser in PDF with screenshots]()
 - Integrate both these scripts with one of Jenkins, Github Actions, CircleCI or TravisCI
-#### [Anser in PDF with screenshots]()
-
-
+> used GitHub Actions
+#### [Lambda CI/CD Answser in PDF with screenshots]()
+#### [S3-react CI/CD Answser in PDF with screenshots]()
